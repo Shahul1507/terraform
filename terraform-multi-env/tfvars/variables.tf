@@ -25,5 +25,5 @@ variable "tags" {
   type = map(any)
 }
 
-variable "environment" {  
+variable "environment" {
 }

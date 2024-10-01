@@ -1,11 +1,11 @@
 instances = {
-    mysql-dev = "t3.small"
-    backend-dev = "t3.micro"
-    frontend-dev = "t3.micro"
+  mysql-dev    = "t3.small"
+  backend-dev  = "t3.micro"
+  frontend-dev = "t3.micro"
 }
 
 tags = {
-    Environmrnt = "dev"
+  Environmrnt = "dev"
 }
 
 environment = "dev"
