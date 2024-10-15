@@ -1,6 +1,6 @@
 variable "instance_names" {
   type    = list(string)
-  default = ["mysql", "backend", "frontend"]
+  default = ["mysql", "backend", "frontend",]
 
 }
 variable "zone_id" {
