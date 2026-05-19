@@ -5,5 +5,5 @@ module "ec2" {
     # You can also create variables or else you can directly use values here
     ami_id = var.ami_something
     instance_type = "t3.micro"
-    security_group_ids = ["sg-01fb6cf8516e8a66a"]
+    security_group_ids = ["sg-0e19161a55da99648"]
 }
